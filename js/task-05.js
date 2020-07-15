@@ -1,4 +1,4 @@
-let countryInput;
+const countryInput;
 let cost;
 countryInput = prompt('Введите страну доставки').toLowerCase();
 if (countryInput === null) {
